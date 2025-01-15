@@ -108,6 +108,11 @@
       border-radius: 20px;
       height: 500px;
     }
+    
+    footer {
+      padding: 100px;
+      display: inline-block;git add .card-info
+    }
 
   }
  
